@@ -15,7 +15,23 @@ Valorant Background Changer is a script to custom your Valorant Home screen
 
 ## Installation
 
+The script need a shortcut on the desktop to launch the game, if you didn't have one yet
+you can create it : 
+
+- Right click on your desktop
+- Select "New", then click on shortcut
+- Copy and paste this : 
+```bash
+ com.epicgames.launcher://apps/cbd5b3d310a54b12bf3fe8c41994174f%3Ad1aec7fb384d4f98beb902d813bbae3c%3A602eb4abc8764c87b7f2607a1ef8c18e?action=launch&silent=true
+```
+- Give it a name, then press Finish
+Never press it when you want to play, because you have to start the game with the Valorant.bat  
+so leave it on your desktop and don't touch it.
+
+### Next steps 
+
 Right click on Valorant.bat and press Edit
+
 
 ![App Screenshot](https://online-hoster.000webhostapp.com/Images/../uploads/166138178620773165681799686669.png)
 
@@ -36,7 +52,7 @@ The Blue arrow is the place where you can add your custom video path, You have t
 ### 👏👏 Congratulation you set-up everything 👏👏
 ## Running
 
-Now you just have to left click on it to start have fun, or with this command line
+Now you just have to open it by left clicking on hit, or with this command line
 
 ```bash
   Valorant.bat
@@ -54,7 +70,10 @@ Now you just have to left click on it to start have fun, or with this command li
                                 Discord : LEMON シ#7313
 ```
 
-## VCT Update !
+
+
+## VCT Version !
 This is the version for VCT event
 
 [Valorant-BC_VCT](https://github.com/TheFrenchRageur/Valorant-BC_VCT)
+
