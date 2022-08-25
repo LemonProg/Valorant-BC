@@ -54,4 +54,7 @@ Now you just have to left click on it to start have fun, or with this command li
                                 Discord : LEMON シ#7313
 ```
 
+## VCT Update !
+This is the version for VCT event
 
+[Valorant-BC_VCT](https://github.com/TheFrenchRageur/Valorant-BC_VCT)
