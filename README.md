@@ -25,8 +25,7 @@ you can create it :
  com.epicgames.launcher://apps/cbd5b3d310a54b12bf3fe8c41994174f%3Ad1aec7fb384d4f98beb902d813bbae3c%3A602eb4abc8764c87b7f2607a1ef8c18e?action=launch&silent=true
 ```
 - Give it a name, then press Finish
-Never press it when you want to play, because you have to start the game with the Valorant.bat  
-so leave it on your desktop and don't touch it.
+Never press it when you want to play, because you have to start the game with the Valorant.bat, so leave it on your desktop and don't touch it.
 
 ### Next steps 
 
