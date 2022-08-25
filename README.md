@@ -36,7 +36,7 @@ The Blue arrow is the place where you can add your custom video path, You have t
 ### 👏👏 Congratulation you set-up everything 👏👏
 ## Running
 
-Now you just have to open it by left clicking on hit, or with this command line
+Now you just have to left click on it to start have fun, or with this command line
 
 ```bash
   Valorant.bat
