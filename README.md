@@ -74,5 +74,5 @@ Now you just have to open it by left clicking on hit, or with this command line
 ## VCT Version !
 This is the version for VCT event
 
-[Valorant-BC_VCT](https://github.com/TheFrenchRageur/Valorant-BC_VCT)
+[Valorant-BC_VCT](https://github.com/LemonProg/Valorant-BC_VCT)
 
