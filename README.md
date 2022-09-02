@@ -60,7 +60,7 @@ Now you just have to open it by left clicking on hit, or with this command line
 
 ## Authors
 
-- [@thefrenchrageur](https://github.com/TheFrenchRageur)
+- [@LEMON シ](https://github.com/LemonProg)
 
 
 ## 🔗 Contact me !
