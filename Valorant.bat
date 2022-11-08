@@ -1,6 +1,6 @@
 @echo off
 
-set valPath="(add your valorant path here)\Riot Games\VALORANT\live\ShooterGame\Content\Movies\Menu\HomeScreen.mp4"
+set valPath="(add your valorant path here)\Riot Games\VALORANT\live\ShooterGame\Content\Movies\Menu\Harbor_HomeScreen.mp4"
 set videoPath="%CD%\HomeScreen.mp4"
 REM set videoPath="(remove 'REM' and replace this by your custom video path)\HomeScreen.mp4"
 
